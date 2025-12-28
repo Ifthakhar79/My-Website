@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('My2ndFont-Regular-convrted.woff2') format('woff2');
+  font-weight: normal ;
+  font-style: normal;
+}
+.s1{
+  color:#f42ea8 ;
+  background-color: white;
+  text-align: left;
+}
+#s2{
+  color:#2ef4dc;
+}
+.s3{
+  color: #5b288d;
+  background-color: white;
+  font-family: 'MyFont';
+  font-size: 100px;
+  text-align: center;
+  
+}
+.y{
+  text-align: center;
+  color: red;
+  background-color: green;
+  font-family: Courier;
+  border-width: 3px;
+  border-style: dotted;
+  
+}
+.p1{
+  color:indigo;
+}
+.p2{
+  color: #0c00ee;
+}
+body{
+  background-image: url(pexels-francesco-ungaro-673648.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+  width: 100%;
+  height: 100vh;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.a{
+  text-align: center;
+  color: green;
+  width: 300px;
+  height: 300px;
+  border:7px dashed red;
+  border-radius: 90px;
+  margin: auto;
+}
