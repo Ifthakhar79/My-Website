@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('Li Ador Noirrit Italic.woff2') format('woff2');
+  font-weight: normal ;
+  font-style: normal;
+}
+h1{
+  color:#9c36f6;
+  text-align:center;
+  font-size: 1580px;
+  background-color:#3523d9;
+}
+#s1{
+  font-size: 50px;
+  font-family: MyFont;
+}
+a{
+  font-size: 20px;
+  color:rgb(126,255,86);
+  background-color: rgb(217,0,114) ;
+}
+div{
+  scale: 90px;
+}
